@@ -1,91 +1,102 @@
 # 🎮 AntiStress Games
 
-A multi-module Android application designed to reduce stress through interactive and engaging mini-games.
+A collection of simple, fun, and relaxing mini-games designed to help users reduce stress and enjoy quick gameplay sessions.
 
 ---
 
-## 🧠 Project Overview
+## 👑 Project Owner
 
-This project is part of a group assignment focused on building stress-relief applications.
-It contains multiple modules, each offering a different relaxation technique or mini-game.
+**Arpit Amarjeet Biswal**
 
 ---
 
-## 🎯 Current Modules
+## 🤝 Team & Contributions
 
-### 🕹️ Whack-A-Hole
+### 🎯 Core Collaborators
 
-* Tap-based reaction game
-* Random mole appearance
-* Score tracking system
-* Lives system ❤️
-* Simple and engaging UI
+| Name                  | Role                           | Game          |
+| --------------------- | ------------------------------ | ------------- |
+| Arpit Amarjeet Biswal | Project Owner / Lead Developer | Whack-A-Mole  |
+| Gyana Ranjan Nayak    | Game Developer                 | Bubble Blast  |
+| Jagrut K Pradhan      | Game Developer                 | Pong Game     |
+| Abhijit Tripathy      | Game Developer                 | Tower Builder |
+| M Bishwet B Khillar   | Game Developer                 | Bubble Pop    |
+
+---
+
+## 👨‍💻 Tech Team Structure
+
+* 🧠 **Project Lead**: Handles overall architecture and integration
+* 🎮 **Game Developers**: Develop individual mini-games
+* 🎨 **UI/UX Designers**: Improve user interface and experience *(if applicable)*
+* 🔧 **Testers**: Debugging and performance testing *(team effort)*
+
+---
+
+## 🕹️ Games Included
+
+* 🔨 **Whack-A-Mole** – Fast reaction-based tapping game
+* 🫧 **Bubble Blast** – Pop bubbles to score points
+* 🏓 **Pong Game** – Classic paddle ball game
+* 🏗️ **Tower Builder** – Stack blocks carefully
+* 🎈 **Bubble Pop** – Relaxing bubble popping experience
+
+---
+
+## 🚀 Features
+
+* Simple and clean UI
+* Lightweight and fast performance
+* Stress-relieving gameplay
+* Multiple mini-games in one app
+* Easy to play for all age groups
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Java
-* **IDE:** Android Studio
-* **UI:** XML
-* **Version Control:** Git & GitHub
+* **Language**: Java / Kotlin
+* **UI Design**: XML
+* **IDE**: Android Studio
+* **Version Control**: Git & GitHub
 
 ---
 
-## 📁 Project Structure
+## 📈 Future Improvements
 
-```
-antistress-games/
- ├── whack-a-hole/
- ├── breathing-module/
- ├── sound-module/
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/arpitamarjeetbiswal-lab/antistress-games.git
-   ```
-
-2. Open in Android Studio
-
-3. Build & Run the project
+* 🔊 Add sound effects and background music
+* 🎨 Improve UI/UX with animations
+* 🏆 Leaderboard system
+* 🌐 Online multiplayer modes
+* 📱 Publish on Google Play Store
+* 🧠 Add more brain-relaxing games
+* 🌙 Dark mode support
 
 ---
 
-## 👥 Team Members
+## 📞 Contact
 
-* Arpit Amarjeet Biswal
-* (Add other members)
+For any queries, suggestions, or collaboration:
 
----
+* 📧 Email: *([arpitamarjeetbiswal@gmail.com](mailto:arpitamarjeetbiswal@gmail.com))*
+* 💻 GitHub:[https://github.com/arpitamarjeetbiswal-lab/antistress-games](https://github.com/arpitamarjeetbiswal-lab/antistress-games📌)[📌](https://github.com/arpitamarjeetbiswal-lab/antistress-games📌) Contribution Guidelines
 
-## 🌟 Features
-
-* Clean and simple UI
-* Interactive gameplay
-* Beginner-friendly architecture
-* Expandable module-based design
-
----
-
-## 📌 Future Improvements
-
-* Sound effects 🔊
-* Animations 🎞️
-* Leaderboard 🏆
-* Multiple difficulty levels
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit and push
+5. Create a Pull Request
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is developed for academic purposes.
+This project is developed for academic and learning purposes.
 
 ---
 
-🔥 *Built with focus and creativity*
+## ⭐ Acknowledgment
+
+Thanks to all contributors for making this project successful 💙
+
+---
