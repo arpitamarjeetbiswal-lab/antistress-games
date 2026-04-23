@@ -4,11 +4,7 @@ A collection of simple, fun, and relaxing mini-games designed to help users redu
 
 ---
 
-## 👑 Project Owner
 
-**Arpit Amarjeet Biswal**
-
----
 
 ## 🤝 Team & Contributions
 
